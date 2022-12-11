@@ -1,6 +1,7 @@
 # Roteiro de instalação e execução
 
 # Backend (contem o código do servidor node.js)
+
 *criar a pasta do projeto "restaurante";
 *entrar na pasta restaurante;
 *criar a pasta backend;
