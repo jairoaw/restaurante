@@ -2,15 +2,23 @@
 
 # Backend (contem o código do servidor node.js)
 
-*criar a pasta do projeto "restaurante";
-*entrar na pasta restaurante;
-*criar a pasta backend;
-*entrar na pasta backend;
-*iniciar o projeto: npm init -y;
-*instalar mongoose, express e cors: npm i express mongoose cors
-*instalar nodemon em modo global: npm i -g nodemon
-*adicionar "ES6 Module Syntax" no arquivo package.json: "type": "module",
-*criar o index.js que contem as informações dos pacotes e da conexao com o banco mongodb;
+criar a pasta do projeto "restaurante";
+
+entrar na pasta restaurante;
+
+criar a pasta backend;
+
+entrar na pasta backend;
+
+iniciar o projeto: npm init -y;
+
+instalar mongoose, express e cors: npm i express mongoose cors
+
+instalar nodemon em modo global: npm i -g nodemon
+
+adicionar "ES6 Module Syntax" no arquivo package.json: "type": "module",
+
+criar o index.js que contem as informações dos pacotes e da conexao com o banco mongodb;
 
 ## Criação das rotas
 criar a pasta routes;
