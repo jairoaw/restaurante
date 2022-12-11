@@ -95,3 +95,6 @@ Botão "Adicionar novo" abre um formulário para cadastrar;
 
 Botão "Editar" abre um formulário para editar;
 
+~~~javascript
+Esta é uma linha de código em Javascript.
+~~~
