@@ -46,7 +46,7 @@ export const deleteCardapio = async (req, res) => {
     }
 }
 
-// Mostrar o detalhe de um cardápio
+// Mostrar o detalhe de um cardápio (não implementado)
 export const showCardapio = async (req, res) => {
     try {
         const showedcardapio = await Cardapio.showOne({_id:req.params.id});

@@ -17,7 +17,7 @@ const AddCardapio = () => {
         descricao,
         turno,
       });
-      navigate("/");
+      navigate("/"); //depois de adicionar, volta pra tela inicial
     } catch (error) {
       console.log(error);
     }
