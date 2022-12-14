@@ -1,3 +1,6 @@
+# Video
+https://www.youtube.com/watch?v=j17dl9DzMn8
+
 # Roteiro de instalação e execução
 
 # Backend (contem o código do servidor node.js)
